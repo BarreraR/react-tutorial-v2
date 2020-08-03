@@ -1,1 +1,5 @@
-# react-tutorial-v2
+# react-tutorial
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+
